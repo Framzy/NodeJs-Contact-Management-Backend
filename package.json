@@ -1,11 +1,12 @@
 {
-  "name": "belajar-nodejs-restful-api",
+  "name": "nodejs-contact-management-backend",
   "version": "1.0.0",
   "description": "Belajar NodeJS RESTful API",
   "main": "src/main.js",
   "scripts": {
     "test": "jest -i",
-    "dev": "node src/main.js"
+    "dev": "node src/main.js",
+    "start": "node src/main.js"
   },
   "jest": {
     "transform": {
